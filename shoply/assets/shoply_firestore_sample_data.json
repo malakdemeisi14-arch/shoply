@@ -1,0 +1,151 @@
+{
+  "categories": [
+    {
+      "id": "shoes",
+      "name": "Shoes",
+      "image": "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/thumbnail.webp"
+    },
+    {
+      "id": "clothes",
+      "name": "Clothes",
+      "image": "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/thumbnail.webp"
+    },
+    {
+      "id": "bags",
+      "name": "Bags",
+      "image": "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/thumbnail.webp"
+    },
+    {
+      "id": "accessories",
+      "name": "Accessories",
+      "image": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/thumbnail.webp"
+    },
+    {
+      "id": "beauty",
+      "name": "Beauty",
+      "image": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp"
+    }
+  ],
+  "products": [
+    {
+      "id": "p90",
+      "name": "Puma Future Rider Trainers",
+      "description": "Retro-inspired sneakers designed for comfortable everyday wear, with a sporty silhouette and versatile casual styling.",
+      "price": 89.99,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/1.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/2.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/3.webp"
+      ],
+      "isTrending": true
+    },
+    {
+      "id": "p92",
+      "name": "Sports Sneakers Off White Red",
+      "description": "Comfortable off-white and red sneakers with a modern casual design suitable for daily activities.",
+      "price": 109.99,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/1.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/2.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/3.webp"
+      ],
+      "isTrending": false
+    },
+    {
+      "id": "p85",
+      "name": "Man Plaid Shirt",
+      "description": "Classic plaid shirt with a relaxed fit, easy to style for everyday and smart-casual outfits.",
+      "price": 34.99,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/1.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/2.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/3.webp"
+      ],
+      "isTrending": false
+    },
+    {
+      "id": "p86",
+      "name": "Man Short Sleeve Shirt",
+      "description": "Lightweight short-sleeve shirt offering a breathable, comfortable option for warm days.",
+      "price": 19.99,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/1.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/2.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/3.webp"
+      ],
+      "isTrending": true
+    },
+    {
+      "id": "p175",
+      "name": "White Faux Leather Backpack",
+      "description": "Stylish white backpack with a practical interior and a clean look for daily essentials.",
+      "price": 39.99,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/3.webp"
+      ],
+      "isTrending": false
+    },
+    {
+      "id": "p176",
+      "name": "Women Handbag Black",
+      "description": "Timeless black handbag designed to complement different outfits while carrying your everyday essentials.",
+      "price": 59.99,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/3.webp"
+      ],
+      "isTrending": true
+    },
+    {
+      "id": "p93",
+      "name": "Brown Leather Belt Watch",
+      "description": "Elegant wristwatch combining a brown leather strap with a clean, classic dial.",
+      "price": 89.99,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/1.webp",
+        "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/2.webp",
+        "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/3.webp"
+      ],
+      "isTrending": true
+    },
+    {
+      "id": "p94",
+      "name": "Longines Master Collection",
+      "description": "Refined luxury wristwatch with a timeless silhouette and premium watchmaking style.",
+      "price": 1499.99,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/1.webp",
+        "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/2.webp",
+        "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/3.webp"
+      ],
+      "isTrending": false
+    },
+    {
+      "id": "p6",
+      "name": "Calvin Klein CK One",
+      "description": "Fresh unisex fragrance with a crisp, clean character, ideal for versatile everyday use.",
+      "price": 49.99,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/1.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/2.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/3.webp"
+      ],
+      "isTrending": true
+    },
+    {
+      "id": "p8",
+      "name": "Dior J'adore",
+      "description": "Elegant floral fragrance with a feminine scent profile and a sophisticated finish.",
+      "price": 89.99,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/1.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/2.webp",
+        "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/3.webp"
+      ],
+      "isTrending": false
+    }
+  ]
+}
